@@ -1,0 +1,5899 @@
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "fullmegan1rev",
+  "time_zone": "Tokyo",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362306605/a085_normal.jpg",
+  "utc_offset": 32400,
+  "statuses_count": 31644,
+  "profile_text_color": "333333",
+  "lang": "ja",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1362306605/a085_normal.jpg",
+  "listed_count": 45,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 459,
+  "id_str": "268224676",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 268224676,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "\u6a2a\u9808\u8cc0\u751f\u307e\u308c \u5c71\u5f62\u3068\u5bae\u57ce\u3067\u80b2\u3061\u307e\u3057\u305f\u3002",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "\u862d\u5708\uff97\uff9d\uff8f\uff99",
+  "verified": false,
+  "url": "http://m.ameba.jp/m/blogTop.do?unm=fullmega-n1rev",
+  "notifications": null,
+  "created_at": "Fri Mar 18 11:02:38 +0000 2011",
+  "location": "\u4ed9\u53f0 \u5c71\u5f62 \u5bae\u53e4 \u8328\u57ce \u6771\u4eac \u6a2a\u9808\u8cc0...",
+  "friends_count": 483,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 275
+ },
+ "id": 906256009177350144,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "Skylinecarson",
+   "time_zone": null,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/871932236072853504/gVMDuE7r_normal.jpg",
+   "utc_offset": null,
+   "statuses_count": 184,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/871932236072853504/gVMDuE7r_normal.jpg",
+   "listed_count": 0,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 550,
+   "id_str": "775232681894215680",
+   "profile_background_image_url_https": "",
+   "id": 775232681894215680,
+   "profile_background_image_url": "",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "All type of New Used import sport rim\nContact : 013-661 9999\n(WhatsApp & Wechat)",
+   "profile_background_color": "F5F8FA",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "CarsonTee",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/775232681894215680/1496719885",
+   "url": "https://www.facebook.com/tee3auto.batucaves/",
+   "notifications": null,
+   "created_at": "Mon Sep 12 07:20:49 +0000 2016",
+   "location": "batu caves, selangor",
+   "friends_count": 4017,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 240
+  },
+  "extended_tweet": {
+   "display_text_range": [
+    0,
+    140
+   ],
+   "extended_entities": {
+    "media": [
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806017023246336,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIRxfgVAAAalAy.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIRxfgVAAAalAy.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806017023246336",
+      "sizes": {
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     },
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806045284405248,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIRzIyUEAAlRoE.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIRzIyUEAAlRoE.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806045284405248",
+      "sizes": {
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     },
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806113488101377,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIR3G3V4AES4jB.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIR3G3V4AES4jB.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806113488101377",
+      "sizes": {
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     },
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806132341424128,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIR4NGUwAAUtSL.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIR4NGUwAAUtSL.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806132341424128",
+      "sizes": {
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       },
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     }
+    ]
+   },
+   "entities": {
+    "symbols": [],
+    "media": [
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806017023246336,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIRxfgVAAAalAy.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIRxfgVAAAalAy.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806017023246336",
+      "sizes": {
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     },
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806045284405248,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIRzIyUEAAlRoE.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIRzIyUEAAlRoE.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806045284405248",
+      "sizes": {
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     },
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806113488101377,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIR3G3V4AES4jB.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIR3G3V4AES4jB.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806113488101377",
+      "sizes": {
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     },
+     {
+      "display_url": "pic.twitter.com/JYL9gREOye",
+      "id": 905806132341424128,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJIR4NGUwAAUtSL.jpg",
+      "expanded_url": "https://twitter.com/Skylinecarson/status/905806260930396160/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJIR4NGUwAAUtSL.jpg",
+      "url": "https://t.co/JYL9gREOye",
+      "id_str": "905806132341424128",
+      "sizes": {
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 2048,
+        "h": 1152
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 675
+       },
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 383
+       }
+      },
+      "indices": [
+       141,
+       164
+      ]
+     }
+    ],
+    "urls": [],
+    "hashtags": [],
+    "user_mentions": []
+   },
+   "full_text": "Model : SSR Type F (Used)\nSize : 17 x 8.5J / 9.5J\nOffset : +32 / +10\nPCD : 5H114.3\nPrice : RM4533 (Excluding GST)\nMade in JAPAN\n013-661 9999 https://t.co/JYL9gREOye"
+  },
+  "id": 905806260930396160,
+  "filter_level": "low",
+  "truncated": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "text": "Model : SSR Type F (Used)\nSize : 17 x 8.5J / 9.5J\nOffset : +32 / +10\nPCD : 5H114.3\nPrice : RM4533 (Excluding GST)\nM\u2026 https://t.co/AQY7Yolnxd",
+  "retweet_count": 1,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   140
+  ],
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "905806260930396160",
+  "favorite_count": 0,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "expanded_url": "https://twitter.com/i/web/status/905806260930396160",
+     "url": "https://t.co/AQY7Yolnxd",
+     "display_url": "twitter.com/i/web/status/9\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Thu Sep 07 14:53:36 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "possibly_sensitive": false,
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256009177350144",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "Skylinecarson",
+    "indices": [
+     3,
+     17
+    ],
+    "id": 775232681894215680,
+    "name": "CarsonTee",
+    "id_str": "775232681894215680"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903244667",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "favorited": false,
+ "text": "RT @Skylinecarson: Model : SSR Type F (Used)\nSize : 17 x 8.5J / 9.5J\nOffset : +32 / +10\nPCD : 5H114.3\nPrice : RM4533 (Excluding GST)\nM\u2026 ",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:40:44 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "Galaxie_kid",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/904004855957729281/5EMkEZp6_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 31418,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/904004855957729281/5EMkEZp6_normal.jpg",
+  "listed_count": 17,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 11131,
+  "id_str": "854085727751110656",
+  "profile_background_image_url_https": "",
+  "id": 854085727751110656,
+  "profile_background_image_url": "",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "How You Feel About My Tweets Is None Of My Business. |\u2022| YouTube and Twitter addict. |\u2022| Oros, RS7 and M6 is bae \u2764\ud83d\udc51|\u2022| Black Twitter Associate\ud83d\udc65",
+  "profile_background_color": "F5F8FA",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Uncle James\u2122",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/854085727751110656/1504895302",
+  "url": "http://www.instagram.com/galaxie_kid",
+  "notifications": null,
+  "created_at": "Mon Apr 17 21:34:40 +0000 2017",
+  "location": "South Africa",
+  "friends_count": 9541,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 19188
+ },
+ "id": 906256110922981381,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 300,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 26,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 588,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 237,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256110922981381",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903268925",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:41:08 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "OkeomaOnyemelie",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/896544433516290048/fdmDjW49_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 9807,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/896544433516290048/fdmDjW49_normal.jpg",
+  "listed_count": 4,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 1025,
+  "id_str": "3108438288",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 3108438288,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Business Consultant. \ud83c\uddf3\ud83c\uddec",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "DisBoy",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108438288/1428774218",
+  "url": null,
+  "notifications": null,
+  "created_at": "Thu Mar 26 17:05:49 +0000 2015",
+  "location": null,
+  "friends_count": 1040,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 7122
+ },
+ "id": 906256215549911041,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 300,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 26,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 588,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 238,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256215549911041",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903293870",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:41:33 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "jbcollectables",
+  "time_zone": null,
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "utc_offset": null,
+  "statuses_count": 25281,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "listed_count": 4,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 185,
+  "id_str": "134245624",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 134245624,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": null,
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "jackie busch",
+  "verified": false,
+  "url": null,
+  "notifications": null,
+  "created_at": "Sat Apr 17 21:46:28 +0000 2010",
+  "location": null,
+  "friends_count": 829,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 2
+ },
+ "id": 906256264337993729,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256264337993729",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "http://www.ebay.com/itm/-/112522229639?roken=cUgayN&soutkn=8L7Irq",
+    "url": "https://t.co/BR7BvvPD54",
+    "display_url": "ebay.com/itm/-/11252222\u2026",
+    "indices": [
+     92,
+     115
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "eBay",
+    "indices": [
+     120,
+     125
+    ],
+    "id": 19709040,
+    "name": "eBay",
+    "id_str": "19709040"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903305502",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "favorited": false,
+ "text": "Check out 1918 Edison Amberola Model 30 Cylinder Phonograph SM-177251 + 3 Cylinders + Tin   https://t.co/BR7BvvPD54 via @eBay",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:41:45 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "_musangi",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/898129695002198018/xKWI3SJW_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 20875,
+  "profile_text_color": "000000",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/898129695002198018/xKWI3SJW_normal.jpg",
+  "listed_count": 23,
+  "profile_sidebar_fill_color": "000000",
+  "followers_count": 4427,
+  "id_str": "2383632954",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2383632954,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "introvert.",
+  "profile_background_color": "000000",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "19CF86",
+  "name": "Musangi",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2383632954/1502103304",
+  "url": null,
+  "notifications": null,
+  "created_at": "Tue Mar 11 12:20:54 +0000 2014",
+  "location": "searching",
+  "friends_count": 4170,
+  "profile_sidebar_border_color": "000000",
+  "geo_enabled": true,
+  "profile_use_background_image": false,
+  "favourites_count": 3304
+ },
+ "id": 906256287222173702,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 300,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 26,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 589,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 238,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256287222173702",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903310958",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:41:50 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "sellodaniel802",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/905122616490557440/ds_DYBWe_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 24,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/905122616490557440/ds_DYBWe_normal.jpg",
+  "listed_count": 0,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 190,
+  "id_str": "905114932085223429",
+  "profile_background_image_url_https": "",
+  "id": 905114932085223429,
+  "profile_background_image_url": "",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "A POET/SKY JUICE LEADER /A  YOUNG ACTOR FROM STAR ROYALTY ENTERTAINMENT",
+  "profile_background_color": "F5F8FA",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Sello Daniel Diphoko",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/905114932085223429/1504633354",
+  "url": null,
+  "notifications": null,
+  "created_at": "Tue Sep 05 17:06:30 +0000 2017",
+  "location": "Thaba Nchu, South Africa",
+  "friends_count": 443,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": true,
+  "profile_use_background_image": true,
+  "favourites_count": 8
+ },
+ "id": 906256503207809026,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256503207809026",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903362453",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c\"",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:42:42 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "ARichman13",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/618108851477479424/xN6hkkaJ_normal.jpg",
+  "utc_offset": -14400,
+  "statuses_count": 630,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/618108851477479424/xN6hkkaJ_normal.jpg",
+  "listed_count": 1,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 74,
+  "id_str": "423122805",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 423122805,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "I'm fluent in sarcasm.",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Allyson Richman",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/423122805/1355278488",
+  "url": null,
+  "notifications": null,
+  "created_at": "Mon Nov 28 03:31:43 +0000 2011",
+  "location": null,
+  "friends_count": 98,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 2971
+ },
+ "id": 906256558232932352,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "danniaskini",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/753483847124123648/-GZvYYNL_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 5744,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": false,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/753483847124123648/-GZvYYNL_normal.jpg",
+   "listed_count": 87,
+   "profile_sidebar_fill_color": "FAE9DC",
+   "followers_count": 3129,
+   "id_str": "16661997",
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/19358367/bg.jpg",
+   "id": 16661997,
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/19358367/bg.jpg",
+   "profile_background_tile": true,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "Trans Activist and Executive Director of Gender Justice League. Views are my own.",
+   "profile_background_color": "000000",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "5C3600",
+   "name": "Danni Askini",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/16661997/1488254523",
+   "url": "http://www.danniaskini.com",
+   "notifications": null,
+   "created_at": "Thu Oct 09 04:16:12 +0000 2008",
+   "location": "Seattle, WA",
+   "friends_count": 2755,
+   "profile_sidebar_border_color": "4F2401",
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "favourites_count": 2860
+  },
+  "extended_tweet": {
+   "display_text_range": [
+    0,
+    139
+   ],
+   "entities": {
+    "symbols": [],
+    "urls": [
+     {
+      "expanded_url": "https://twitter.com/NARAL/status/905973000427724800",
+      "url": "https://t.co/todl8jb6DX",
+      "display_url": "twitter.com/NARAL/status/9\u2026",
+      "indices": [
+       140,
+       163
+      ]
+     }
+    ],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "screen_name": "RepJayapal",
+      "indices": [
+       57,
+       68
+      ],
+      "id": 815733290955112448,
+      "name": "Rep. Pramila Jayapal",
+      "id_str": "815733290955112448"
+     }
+    ]
+   },
+   "full_text": "I can't say enough how deep my love and appreciation for @RepJayapal  goes. She SHUTS IT DOWN. This is the kind of role model I need! &lt;3 https://t.co/todl8jb6DX"
+  },
+  "id": 906247099414601728,
+  "filter_level": "low",
+  "truncated": true,
+  "quote_count": 0,
+  "quoted_status_id": 905973000427724800,
+  "reply_count": 3,
+  "text": "I can't say enough how deep my love and appreciation for @RepJayapal  goes. She SHUTS IT DOWN. This is the kind of\u2026 https://t.co/4kBpa0hxC6",
+  "quoted_status_id_str": "905973000427724800",
+  "retweet_count": 6,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   140
+  ],
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "id_str": "906247099414601728",
+  "favorite_count": 50,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "expanded_url": "https://twitter.com/i/web/status/906247099414601728",
+     "url": "https://t.co/4kBpa0hxC6",
+     "display_url": "twitter.com/i/web/status/9\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepJayapal",
+     "indices": [
+      57,
+      68
+     ],
+     "id": 815733290955112448,
+     "name": "Rep. Pramila Jayapal",
+     "id_str": "815733290955112448"
+    }
+   ]
+  },
+  "quoted_status": {
+   "user": {
+    "translator_type": "none",
+    "screen_name": "NARAL",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/905506641122127872/XVb2rcDd_normal.jpg",
+    "utc_offset": -14400,
+    "statuses_count": 43193,
+    "profile_text_color": "0C0650",
+    "lang": "en",
+    "default_profile": false,
+    "following": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/905506641122127872/XVb2rcDd_normal.jpg",
+    "listed_count": 2500,
+    "profile_sidebar_fill_color": "CCCCFF",
+    "followers_count": 143027,
+    "id_str": "17006036",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181417008/4vB7Ptui.png",
+    "id": 17006036,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181417008/4vB7Ptui.png",
+    "profile_background_tile": false,
+    "contributors_enabled": false,
+    "protected": false,
+    "description": "NARAL Pro-Choice America fights to protect & expand reproductive freedom for all. Join us!",
+    "profile_background_color": "0C0650",
+    "default_profile_image": false,
+    "follow_request_sent": null,
+    "is_translator": false,
+    "profile_link_color": "0099CC",
+    "name": "NARAL",
+    "verified": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17006036/1504634506",
+    "url": "http://www.ProChoiceAmerica.org/",
+    "notifications": null,
+    "created_at": "Mon Oct 27 20:11:49 +0000 2008",
+    "location": "Washington, DC",
+    "friends_count": 4952,
+    "profile_sidebar_border_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "favourites_count": 16039
+   },
+   "extended_tweet": {
+    "display_text_range": [
+     0,
+     144
+    ],
+    "extended_entities": {
+     "media": [
+      {
+       "display_url": "pic.twitter.com/amlJ1lrDKZ",
+       "id": 905972825693057024,
+       "type": "video",
+       "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+       "expanded_url": "https://twitter.com/NARAL/status/905973000427724800/video/1",
+       "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+       "url": "https://t.co/amlJ1lrDKZ",
+       "video_info": {
+        "duration_millis": 91858,
+        "aspect_ratio": [
+         4,
+         3
+        ],
+        "variants": [
+         {
+          "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/480x360/NqURROH58J_lYl2F.mp4",
+          "content_type": "video/mp4",
+          "bitrate": 832000
+         },
+         {
+          "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/240x180/Kpnr3CFaOlkhPZ2z.mp4",
+          "content_type": "video/mp4",
+          "bitrate": 320000
+         },
+         {
+          "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/pl/etGMngjluwkb20I3.m3u8",
+          "content_type": "application/x-mpegURL"
+         }
+        ]
+       },
+       "id_str": "905972825693057024",
+       "sizes": {
+        "small": {
+         "resize": "fit",
+         "w": 340,
+         "h": 255
+        },
+        "thumb": {
+         "resize": "crop",
+         "w": 150,
+         "h": 150
+        },
+        "large": {
+         "resize": "fit",
+         "w": 480,
+         "h": 360
+        },
+        "medium": {
+         "resize": "fit",
+         "w": 480,
+         "h": 360
+        }
+       },
+       "indices": [
+        145,
+        168
+       ]
+      }
+     ]
+    },
+    "entities": {
+     "symbols": [],
+     "media": [
+      {
+       "display_url": "pic.twitter.com/amlJ1lrDKZ",
+       "id": 905972825693057024,
+       "type": "video",
+       "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+       "expanded_url": "https://twitter.com/NARAL/status/905973000427724800/video/1",
+       "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+       "url": "https://t.co/amlJ1lrDKZ",
+       "video_info": {
+        "duration_millis": 91858,
+        "aspect_ratio": [
+         4,
+         3
+        ],
+        "variants": [
+         {
+          "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/480x360/NqURROH58J_lYl2F.mp4",
+          "content_type": "video/mp4",
+          "bitrate": 832000
+         },
+         {
+          "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/240x180/Kpnr3CFaOlkhPZ2z.mp4",
+          "content_type": "video/mp4",
+          "bitrate": 320000
+         },
+         {
+          "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/pl/etGMngjluwkb20I3.m3u8",
+          "content_type": "application/x-mpegURL"
+         }
+        ]
+       },
+       "id_str": "905972825693057024",
+       "sizes": {
+        "small": {
+         "resize": "fit",
+         "w": 340,
+         "h": 255
+        },
+        "thumb": {
+         "resize": "crop",
+         "w": 150,
+         "h": 150
+        },
+        "large": {
+         "resize": "fit",
+         "w": 480,
+         "h": 360
+        },
+        "medium": {
+         "resize": "fit",
+         "w": 480,
+         "h": 360
+        }
+       },
+       "indices": [
+        145,
+        168
+       ]
+      }
+     ],
+     "urls": [],
+     "hashtags": [],
+     "user_mentions": [
+      {
+       "screen_name": "RepJayapal",
+       "indices": [
+        44,
+        55
+       ],
+       "id": 815733290955112448,
+       "name": "Rep. Pramila Jayapal",
+       "id_str": "815733290955112448"
+      }
+     ]
+    },
+    "full_text": "Sexism is alive &amp; well in the US House. @RepJayapal was just called a \"young lady\" who \"doesn't know a damn thing.\" She's a CONGRESSWOMAN. \ud83d\ude21 https://t.co/amlJ1lrDKZ"
+   },
+   "id": 905973000427724800,
+   "filter_level": "low",
+   "truncated": true,
+   "quote_count": 1134,
+   "reply_count": 892,
+   "text": "Sexism is alive &amp; well in the US House. @RepJayapal was just called a \"young lady\" who \"doesn't know a damn thing.\"\u2026 https://t.co/ZTyhK64R9U",
+   "retweet_count": 6607,
+   "lang": "en",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "in_reply_to_user_id_str": null,
+   "is_quote_status": false,
+   "id_str": "905973000427724800",
+   "favorite_count": 7788,
+   "contributors": null,
+   "in_reply_to_user_id": null,
+   "entities": {
+    "symbols": [],
+    "urls": [
+     {
+      "expanded_url": "https://twitter.com/i/web/status/905973000427724800",
+      "url": "https://t.co/ZTyhK64R9U",
+      "display_url": "twitter.com/i/web/status/9\u2026",
+      "indices": [
+       121,
+       144
+      ]
+     }
+    ],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "screen_name": "RepJayapal",
+      "indices": [
+       44,
+       55
+      ],
+      "id": 815733290955112448,
+      "name": "Rep. Pramila Jayapal",
+      "id_str": "815733290955112448"
+     }
+    ]
+   },
+   "retweeted": false,
+   "place": null,
+   "coordinates": null,
+   "in_reply_to_status_id_str": null,
+   "created_at": "Fri Sep 08 01:56:10 +0000 2017",
+   "favorited": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "possibly_sensitive": false,
+   "geo": null
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 20:05:20 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "possibly_sensitive": false,
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "quoted_status_id": 905973000427724800,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "quoted_status_id_str": "905973000427724800",
+ "retweet_count": 0,
+ "lang": "en",
+ "place": null,
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": true,
+ "id_str": "906256558232932352",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "danniaskini",
+    "indices": [
+     3,
+     15
+    ],
+    "id": 16661997,
+    "name": "Danni Askini",
+    "id_str": "16661997"
+   },
+   {
+    "screen_name": "RepJayapal",
+    "indices": [
+     74,
+     85
+    ],
+    "id": 815733290955112448,
+    "name": "Rep. Pramila Jayapal",
+    "id_str": "815733290955112448"
+   }
+  ]
+ },
+ "retweeted": false,
+ "quoted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "NARAL",
+   "time_zone": "Eastern Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905506641122127872/XVb2rcDd_normal.jpg",
+   "utc_offset": -14400,
+   "statuses_count": 43193,
+   "profile_text_color": "0C0650",
+   "lang": "en",
+   "default_profile": false,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905506641122127872/XVb2rcDd_normal.jpg",
+   "listed_count": 2500,
+   "profile_sidebar_fill_color": "CCCCFF",
+   "followers_count": 143027,
+   "id_str": "17006036",
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181417008/4vB7Ptui.png",
+   "id": 17006036,
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181417008/4vB7Ptui.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "NARAL Pro-Choice America fights to protect & expand reproductive freedom for all. Join us!",
+   "profile_background_color": "0C0650",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "0099CC",
+   "name": "NARAL",
+   "verified": true,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/17006036/1504634506",
+   "url": "http://www.ProChoiceAmerica.org/",
+   "notifications": null,
+   "created_at": "Mon Oct 27 20:11:49 +0000 2008",
+   "location": "Washington, DC",
+   "friends_count": 4952,
+   "profile_sidebar_border_color": "FFFFFF",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 16039
+  },
+  "extended_tweet": {
+   "display_text_range": [
+    0,
+    144
+   ],
+   "extended_entities": {
+    "media": [
+     {
+      "display_url": "pic.twitter.com/amlJ1lrDKZ",
+      "id": 905972825693057024,
+      "type": "video",
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+      "expanded_url": "https://twitter.com/NARAL/status/905973000427724800/video/1",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+      "url": "https://t.co/amlJ1lrDKZ",
+      "video_info": {
+       "duration_millis": 91858,
+       "aspect_ratio": [
+        4,
+        3
+       ],
+       "variants": [
+        {
+         "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/480x360/NqURROH58J_lYl2F.mp4",
+         "content_type": "video/mp4",
+         "bitrate": 832000
+        },
+        {
+         "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/240x180/Kpnr3CFaOlkhPZ2z.mp4",
+         "content_type": "video/mp4",
+         "bitrate": 320000
+        },
+        {
+         "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/pl/etGMngjluwkb20I3.m3u8",
+         "content_type": "application/x-mpegURL"
+        }
+       ]
+      },
+      "id_str": "905972825693057024",
+      "sizes": {
+       "small": {
+        "resize": "fit",
+        "w": 340,
+        "h": 255
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 480,
+        "h": 360
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 480,
+        "h": 360
+       }
+      },
+      "indices": [
+       145,
+       168
+      ]
+     }
+    ]
+   },
+   "entities": {
+    "symbols": [],
+    "media": [
+     {
+      "display_url": "pic.twitter.com/amlJ1lrDKZ",
+      "id": 905972825693057024,
+      "type": "video",
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+      "expanded_url": "https://twitter.com/NARAL/status/905973000427724800/video/1",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/905972825693057024/pu/img/VDpOY2CzlP5FUeFu.jpg",
+      "url": "https://t.co/amlJ1lrDKZ",
+      "video_info": {
+       "duration_millis": 91858,
+       "aspect_ratio": [
+        4,
+        3
+       ],
+       "variants": [
+        {
+         "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/480x360/NqURROH58J_lYl2F.mp4",
+         "content_type": "video/mp4",
+         "bitrate": 832000
+        },
+        {
+         "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/vid/240x180/Kpnr3CFaOlkhPZ2z.mp4",
+         "content_type": "video/mp4",
+         "bitrate": 320000
+        },
+        {
+         "url": "https://video.twimg.com/ext_tw_video/905972825693057024/pu/pl/etGMngjluwkb20I3.m3u8",
+         "content_type": "application/x-mpegURL"
+        }
+       ]
+      },
+      "id_str": "905972825693057024",
+      "sizes": {
+       "small": {
+        "resize": "fit",
+        "w": 340,
+        "h": 255
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 480,
+        "h": 360
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 480,
+        "h": 360
+       }
+      },
+      "indices": [
+       145,
+       168
+      ]
+     }
+    ],
+    "urls": [],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "screen_name": "RepJayapal",
+      "indices": [
+       44,
+       55
+      ],
+      "id": 815733290955112448,
+      "name": "Rep. Pramila Jayapal",
+      "id_str": "815733290955112448"
+     }
+    ]
+   },
+   "full_text": "Sexism is alive &amp; well in the US House. @RepJayapal was just called a \"young lady\" who \"doesn't know a damn thing.\" She's a CONGRESSWOMAN. \ud83d\ude21 https://t.co/amlJ1lrDKZ"
+  },
+  "id": 905973000427724800,
+  "filter_level": "low",
+  "truncated": true,
+  "quote_count": 1134,
+  "reply_count": 892,
+  "text": "Sexism is alive &amp; well in the US House. @RepJayapal was just called a \"young lady\" who \"doesn't know a damn thing.\"\u2026 https://t.co/ZTyhK64R9U",
+  "retweet_count": 6607,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   140
+  ],
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "905973000427724800",
+  "favorite_count": 7788,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "expanded_url": "https://twitter.com/i/web/status/905973000427724800",
+     "url": "https://t.co/ZTyhK64R9U",
+     "display_url": "twitter.com/i/web/status/9\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepJayapal",
+     "indices": [
+      44,
+      55
+     ],
+     "id": 815733290955112448,
+     "name": "Rep. Pramila Jayapal",
+     "id_str": "815733290955112448"
+    }
+   ]
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 01:56:10 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "possibly_sensitive": false,
+  "geo": null
+ },
+ "coordinates": null,
+ "timestamp_ms": "1504903375572",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "favorited": false,
+ "text": "RT @danniaskini: I can't say enough how deep my love and appreciation for @RepJayapal  goes. She SHUTS IT DOWN. This is the kind of\u2026 ",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:42:55 +0000 2017",
+ "geo": null
+},
+{
+ "extended_tweet": {
+  "display_text_range": [
+   0,
+   139
+  ],
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "expanded_url": "https://twitter.com/sugadeazucar/status/906255299287375872",
+     "url": "https://t.co/ifCFq6tiEX",
+     "display_url": "twitter.com/sugadeazucar/s\u2026",
+     "indices": [
+      140,
+      163
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "full_text": "To clarify: I work as a model in my area and I'm tryna get bigger? (How to English lmao) so I have 3 accounts. Main, private for friends, + https://t.co/ifCFq6tiEX"
+ },
+ "id": 906256586066329600,
+ "truncated": true,
+ "quote_count": 0,
+ "quoted_status_id": 906255299287375872,
+ "reply_count": 0,
+ "quoted_status_id_str": "906255299287375872",
+ "lang": "en",
+ "geo": null,
+ "timestamp_ms": "1504903382208",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "retweeted": false,
+ "place": null,
+ "created_at": "Fri Sep 08 20:43:02 +0000 2017",
+ "text": "To clarify: I work as a model in my area and I'm tryna get bigger? (How to English lmao) so I have 3 accounts. Main\u2026 https://t.co/C2UuftsxVl",
+ "display_text_range": [
+  0,
+  140
+ ],
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "user": {
+  "translator_type": "none",
+  "screen_name": "SugaDeAzucar",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/905817161888927744/u3utczJy_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 906,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/905817161888927744/u3utczJy_normal.jpg",
+  "listed_count": 0,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 49,
+  "id_str": "894094881882345473",
+  "profile_background_image_url_https": "",
+  "id": 894094881882345473,
+  "profile_background_image_url": "",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "let's walk together forever and ever / \u264b\ufe0f",
+  "profile_background_color": "F5F8FA",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "s",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/894094881882345473/1504798655",
+  "url": null,
+  "notifications": null,
+  "created_at": "Sun Aug 06 07:16:46 +0000 2017",
+  "location": "she/her",
+  "friends_count": 46,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 558
+ },
+ "retweet_count": 0,
+ "filter_level": "low",
+ "favorited": false,
+ "in_reply_to_status_id": null,
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": true,
+ "id_str": "906256586066329600",
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "https://twitter.com/i/web/status/906256586066329600",
+    "url": "https://t.co/C2UuftsxVl",
+    "display_url": "twitter.com/i/web/status/9\u2026",
+    "indices": [
+     117,
+     140
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "quoted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "SugaDeAzucar",
+   "time_zone": null,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905817161888927744/u3utczJy_normal.jpg",
+   "utc_offset": null,
+   "statuses_count": 905,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905817161888927744/u3utczJy_normal.jpg",
+   "listed_count": 0,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 49,
+   "id_str": "894094881882345473",
+   "profile_background_image_url_https": "",
+   "id": 894094881882345473,
+   "profile_background_image_url": "",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "let's walk together forever and ever / \u264b\ufe0f",
+   "profile_background_color": "F5F8FA",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "s",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/894094881882345473/1504798655",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Aug 06 07:16:46 +0000 2017",
+   "location": "she/her",
+   "friends_count": 46,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "favourites_count": 558
+  },
+  "id": 906255299287375872,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "text": "I almost posted selfies on her sjshsj someone please dm me if I ever do, i ain't tryna get doxxed",
+  "retweet_count": 0,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906255299287375872",
+  "favorite_count": 0,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 20:37:55 +0000 2017",
+  "geo": null
+ },
+ "coordinates": null,
+ "in_reply_to_status_id_str": null,
+ "in_reply_to_screen_name": null,
+ "possibly_sensitive": false
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "PeterEier",
+  "time_zone": "Amsterdam",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2000122761/petereier_normal.png",
+  "utc_offset": 7200,
+  "statuses_count": 379,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2000122761/petereier_normal.png",
+  "listed_count": 3,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 45,
+  "id_str": "211826985",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 211826985,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "ICT Architect, HAM Radio Operator and Pilot (PPL)",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Peter Eier",
+  "verified": false,
+  "url": "http://www.privepiloot.nl",
+  "notifications": null,
+  "created_at": "Thu Nov 04 11:17:36 +0000 2010",
+  "location": "Almere, The Netherlands",
+  "friends_count": 118,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": true,
+  "profile_use_background_image": true,
+  "favourites_count": 123
+ },
+ "id": 906256681235087360,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "robertvg",
+   "time_zone": "Amsterdam",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/844574419301339136/Dp6k9nRa_normal.jpg",
+   "utc_offset": 7200,
+   "statuses_count": 9777,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/844574419301339136/Dp6k9nRa_normal.jpg",
+   "listed_count": 29,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 642,
+   "id_str": "28305026",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 28305026,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "Captain of @deMoraMora. Happy Tesla driver. I do whatever within my limited possibility to promote electric cars and speed up the energy transition.",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "Roberto di Gento",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/28305026/1414098603",
+   "url": "http://www.moramora.nl",
+   "notifications": null,
+   "created_at": "Thu Apr 02 08:36:47 +0000 2009",
+   "location": "Amsterdam - Netherlands",
+   "friends_count": 1849,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 6144
+  },
+  "possibly_sensitive": false,
+  "id": 906178754036281347,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 1,
+  "reply_count": 7,
+  "text": "@Model3Owners The first Model 3 has been spotted in The Netherlands, around the Tesla assembly plant in Tilburg https://t.co/Gqp0Aqs0NB",
+  "retweet_count": 33,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   111
+  ],
+  "in_reply_to_user_id_str": "704835627183788032",
+  "is_quote_status": false,
+  "id_str": "906178754036281347",
+  "favorite_count": 102,
+  "contributors": null,
+  "in_reply_to_user_id": 704835627183788032,
+  "entities": {
+   "symbols": [],
+   "media": [
+    {
+     "display_url": "pic.twitter.com/Gqp0Aqs0NB",
+     "id": 906178746713083909,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNkxNzXkAU61_W.jpg",
+     "expanded_url": "https://twitter.com/robertvg/status/906178754036281347/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNkxNzXkAU61_W.jpg",
+     "url": "https://t.co/Gqp0Aqs0NB",
+     "id_str": "906178746713083909",
+     "sizes": {
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 270
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1024,
+       "h": 407
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 1024,
+       "h": 407
+      }
+     },
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": [
+    {
+     "screen_name": "Model3Owners",
+     "indices": [
+      0,
+      13
+     ],
+     "id": 704835627183788032,
+     "name": "Model 3 Owners Club",
+     "id_str": "704835627183788032"
+    }
+   ]
+  },
+  "retweeted": false,
+  "place": {
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.7289,
+       52.278227
+      ],
+      [
+       4.7289,
+       52.431229
+      ],
+      [
+       5.079207,
+       52.431229
+      ],
+      [
+       5.079207,
+       52.278227
+      ]
+     ]
+    ]
+   },
+   "attributes": {},
+   "id": "99cdab25eddd6bce",
+   "name": "Amsterdam",
+   "country_code": "NL",
+   "country": "The Netherlands",
+   "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+   "full_name": "Amsterdam, The Netherlands",
+   "place_type": "city"
+  },
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 15:33:45 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": "Model3Owners",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "extended_entities": {
+   "media": [
+    {
+     "display_url": "pic.twitter.com/Gqp0Aqs0NB",
+     "id": 906178746713083909,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNkxNzXkAU61_W.jpg",
+     "expanded_url": "https://twitter.com/robertvg/status/906178754036281347/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNkxNzXkAU61_W.jpg",
+     "url": "https://t.co/Gqp0Aqs0NB",
+     "id_str": "906178746713083909",
+     "sizes": {
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 270
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1024,
+       "h": 407
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 1024,
+       "h": 407
+      }
+     },
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ]
+  },
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256681235087360",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "robertvg",
+    "indices": [
+     3,
+     12
+    ],
+    "id": 28305026,
+    "name": "Roberto di Gento",
+    "id_str": "28305026"
+   },
+   {
+    "screen_name": "Model3Owners",
+    "indices": [
+     14,
+     27
+    ],
+    "id": 704835627183788032,
+    "name": "Model 3 Owners Club",
+    "id_str": "704835627183788032"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903404898",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+ "favorited": false,
+ "text": "RT @robertvg: @Model3Owners The first Model 3 has been spotted in The Netherlands, around the Tesla assembly plant in Tilburg https://t.co/\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:43:24 +0000 2017",
+ "geo": null
+},
+{
+ "id": 906256724738416640,
+ "truncated": false,
+ "quote_count": 0,
+ "quoted_status_id": 906163381232701440,
+ "reply_count": 0,
+ "quoted_status_id_str": "906163381232701440",
+ "lang": "en",
+ "geo": null,
+ "timestamp_ms": "1504903415270",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "retweeted": false,
+ "place": null,
+ "created_at": "Fri Sep 08 20:43:35 +0000 2017",
+ "text": "Date a selfish person* https://t.co/LlMcnVJNJD",
+ "display_text_range": [
+  0,
+  22
+ ],
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "user": {
+  "translator_type": "none",
+  "screen_name": "EvaChaneI",
+  "time_zone": "West Central Africa",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/906167864868175874/ly-efFKw_normal.jpg",
+  "utc_offset": 3600,
+  "statuses_count": 54690,
+  "profile_text_color": "362720",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/906167864868175874/ly-efFKw_normal.jpg",
+  "listed_count": 32,
+  "profile_sidebar_fill_color": "FFFCFC",
+  "followers_count": 2482,
+  "id_str": "44243800",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/387243990/DSC00582zz.jpg",
+  "id": 44243800,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/387243990/DSC00582zz.jpg",
+  "profile_background_tile": true,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Young visionary... chasing purpose..watch this space \u2764\ufe0f\ud83c\udf0d\u2728 motivational writer \ud83d\udc47\ud83c\udffe| instagram : http://eva.chanel",
+  "profile_background_color": "FF6699",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "B40B43",
+  "name": "The Eva Bozimo \ud83d\udc95",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/44243800/1503481867",
+  "url": "http://www.candidlipsblog.com/blog/",
+  "notifications": null,
+  "created_at": "Wed Jun 03 00:01:16 +0000 2009",
+  "location": "Abuja, Nigeria",
+  "friends_count": 1045,
+  "profile_sidebar_border_color": "F0E7E7",
+  "geo_enabled": true,
+  "profile_use_background_image": true,
+  "favourites_count": 2424
+ },
+ "retweet_count": 0,
+ "filter_level": "low",
+ "favorited": false,
+ "in_reply_to_status_id": null,
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": true,
+ "id_str": "906256724738416640",
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "https://twitter.com/clintonviceb/status/906163381232701440",
+    "url": "https://t.co/LlMcnVJNJD",
+    "display_url": "twitter.com/clintonviceb/s\u2026",
+    "indices": [
+     23,
+     46
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "quoted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 302,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 26,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 585,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 243,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "coordinates": null,
+ "in_reply_to_status_id_str": null,
+ "in_reply_to_screen_name": null,
+ "possibly_sensitive": false
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "doncsjo",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/905900878485389312/bXeUUfsN_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 874,
+  "profile_text_color": "333333",
+  "lang": "ca",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/905900878485389312/bXeUUfsN_normal.jpg",
+  "listed_count": 1,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 102,
+  "id_str": "2905648937",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2905648937,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": null,
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "David P\u00e9rez",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2905648937/1504818515",
+  "url": null,
+  "notifications": null,
+  "created_at": "Thu Dec 04 21:49:18 +0000 2014",
+  "location": null,
+  "friends_count": 344,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 229
+ },
+ "id": 906256834893373440,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ElectrekCo",
+   "time_zone": "Eastern Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/639880408675450880/2CQydSIR_normal.png",
+   "utc_offset": -14400,
+   "statuses_count": 5424,
+   "profile_text_color": "000000",
+   "lang": "en",
+   "default_profile": false,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/639880408675450880/2CQydSIR_normal.png",
+   "listed_count": 526,
+   "profile_sidebar_fill_color": "000000",
+   "followers_count": 26909,
+   "id_str": "2148233600",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 2148233600,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "Following the electric transportation industry and green ecosystem, Tesla, SolarCity and more.",
+   "profile_background_color": "000000",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "89C9FA",
+   "name": "Electrek.Co",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2148233600/1457973401",
+   "url": "http://electrek.co",
+   "notifications": null,
+   "created_at": "Tue Oct 22 03:07:30 +0000 2013",
+   "location": "Fremont, CA",
+   "friends_count": 7,
+   "profile_sidebar_border_color": "000000",
+   "geo_enabled": true,
+   "profile_use_background_image": false,
+   "favourites_count": 277
+  },
+  "possibly_sensitive": false,
+  "id": 906189716210450433,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 11,
+  "reply_count": 14,
+  "text": "First Tesla Model 3 spotted in Europe a year ahead of official launch  https://t.co/ORLGwvfxys https://t.co/bdhGrrxE5o",
+  "retweet_count": 66,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   94
+  ],
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906189716210450433",
+  "favorite_count": 191,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "media": [
+    {
+     "display_url": "pic.twitter.com/bdhGrrxE5o",
+     "id": 906189602515558400,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "url": "https://t.co/bdhGrrxE5o",
+     "id_str": "906189602515558400",
+     "sizes": {
+      "medium": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 610
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1712,
+       "h": 870
+      },
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 346
+      }
+     },
+     "indices": [
+      95,
+      118
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "expanded_url": "https://electrek.co/2017/09/08/first-tesla-model-3-spotted-in-europe-a-year-ahead-of-official-launch/",
+     "url": "https://t.co/ORLGwvfxys",
+     "display_url": "electrek.co/2017/09/08/fir\u2026",
+     "indices": [
+      71,
+      94
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 16:17:19 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "extended_entities": {
+   "media": [
+    {
+     "display_url": "pic.twitter.com/bdhGrrxE5o",
+     "id": 906189602515558400,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "url": "https://t.co/bdhGrrxE5o",
+     "id_str": "906189602515558400",
+     "sizes": {
+      "medium": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 610
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1712,
+       "h": 870
+      },
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 346
+      }
+     },
+     "indices": [
+      95,
+      118
+     ]
+    }
+   ]
+  },
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906256834893373440",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "media": [
+   {
+    "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+    "id": 906189602515558400,
+    "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "source_user_id": 2148233600,
+    "source_status_id": 906189716210450433,
+    "url": "https://t.co/bdhGrrxE5o",
+    "sizes": {
+     "medium": {
+      "resize": "fit",
+      "w": 1200,
+      "h": 610
+     },
+     "thumb": {
+      "resize": "crop",
+      "w": 150,
+      "h": 150
+     },
+     "large": {
+      "resize": "fit",
+      "w": 1712,
+      "h": 870
+     },
+     "small": {
+      "resize": "fit",
+      "w": 680,
+      "h": 346
+     }
+    },
+    "id_str": "906189602515558400",
+    "type": "photo",
+    "source_status_id_str": "906189716210450433",
+    "display_url": "pic.twitter.com/bdhGrrxE5o",
+    "source_user_id_str": "2148233600",
+    "indices": [
+     111,
+     134
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "expanded_url": "https://electrek.co/2017/09/08/first-tesla-model-3-spotted-in-europe-a-year-ahead-of-official-launch/",
+    "url": "https://t.co/ORLGwvfxys",
+    "display_url": "electrek.co/2017/09/08/fir\u2026",
+    "indices": [
+     87,
+     110
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ElectrekCo",
+    "indices": [
+     3,
+     14
+    ],
+    "id": 2148233600,
+    "name": "Electrek.Co",
+    "id_str": "2148233600"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903441533",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ElectrekCo: First Tesla Model 3 spotted in Europe a year ahead of official launch  https://t.co/ORLGwvfxys https://t.co/bdhGrrxE5o",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:44:01 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null,
+ "extended_entities": {
+  "media": [
+   {
+    "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+    "id": 906189602515558400,
+    "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "source_user_id": 2148233600,
+    "source_status_id": 906189716210450433,
+    "url": "https://t.co/bdhGrrxE5o",
+    "sizes": {
+     "medium": {
+      "resize": "fit",
+      "w": 1200,
+      "h": 610
+     },
+     "thumb": {
+      "resize": "crop",
+      "w": 150,
+      "h": 150
+     },
+     "large": {
+      "resize": "fit",
+      "w": 1712,
+      "h": 870
+     },
+     "small": {
+      "resize": "fit",
+      "w": 680,
+      "h": 346
+     }
+    },
+    "id_str": "906189602515558400",
+    "type": "photo",
+    "source_status_id_str": "906189716210450433",
+    "display_url": "pic.twitter.com/bdhGrrxE5o",
+    "source_user_id_str": "2148233600",
+    "indices": [
+     111,
+     134
+    ]
+   }
+  ]
+ }
+},
+{
+ "id": 906256840501207040,
+ "truncated": false,
+ "quote_count": 0,
+ "quoted_status_id": 906163381232701440,
+ "reply_count": 0,
+ "quoted_status_id_str": "906163381232701440",
+ "lang": "en",
+ "geo": null,
+ "timestamp_ms": "1504903442870",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "retweeted": false,
+ "place": null,
+ "created_at": "Fri Sep 08 20:44:02 +0000 2017",
+ "text": "2 months ago i lost 7 kg  because of reason number 2 https://t.co/r7kbPXCoaD",
+ "display_text_range": [
+  0,
+  52
+ ],
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "user": {
+  "translator_type": "none",
+  "screen_name": "ledi_nalez",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/871305411806232576/EyRoEaWa_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 8634,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/871305411806232576/EyRoEaWa_normal.jpg",
+  "listed_count": 4,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 999,
+  "id_str": "725850295",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 725850295,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "electrical engineer",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Bangibiza uMbali",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/725850295/1501229988",
+  "url": null,
+  "notifications": null,
+  "created_at": "Mon Jul 30 11:14:23 +0000 2012",
+  "location": "Margate & Durban",
+  "friends_count": 639,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": true,
+  "profile_use_background_image": true,
+  "favourites_count": 2099
+ },
+ "retweet_count": 0,
+ "filter_level": "low",
+ "favorited": false,
+ "in_reply_to_status_id": null,
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": true,
+ "id_str": "906256840501207040",
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "https://twitter.com/ClintonViceB/status/906163381232701440",
+    "url": "https://t.co/r7kbPXCoaD",
+    "display_url": "twitter.com/ClintonViceB/s\u2026",
+    "indices": [
+     53,
+     76
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "quoted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 304,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 28,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 585,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 243,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "coordinates": null,
+ "in_reply_to_status_id_str": null,
+ "in_reply_to_screen_name": null,
+ "possibly_sensitive": false
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "iamrichard_rich",
+  "time_zone": "Amsterdam",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/878011904853241861/z-zwS0UK_normal.jpg",
+  "utc_offset": 7200,
+  "statuses_count": 11350,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/878011904853241861/z-zwS0UK_normal.jpg",
+  "listed_count": 6,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 848,
+  "id_str": "1537438345",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1537438345,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "#MUFC Cosa Nostra. \n\nFortis Fortuna Adiuvat.",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Unorthodox",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1537438345/1495623744",
+  "url": null,
+  "notifications": null,
+  "created_at": "Fri Jun 21 21:56:26 +0000 2013",
+  "location": "1600 Pennsylvania Avenue ",
+  "friends_count": 571,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 2652
+ },
+ "id": 906257094097203200,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 307,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 29,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 586,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 243,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257094097203200",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903503332",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:45:03 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "UB_Jackson",
+  "time_zone": "London",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/905742244505944065/GG8z8Pvw_normal.jpg",
+  "utc_offset": 3600,
+  "statuses_count": 76120,
+  "profile_text_color": "000000",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/905742244505944065/GG8z8Pvw_normal.jpg",
+  "listed_count": 3,
+  "profile_sidebar_fill_color": "000000",
+  "followers_count": 2188,
+  "id_str": "347903947",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+  "id": 347903947,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "FC Barcelona \u26bd\ufe0f | EPL : MUFC",
+  "profile_background_color": "000000",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "ABB8C2",
+  "name": "Jon Snow",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/347903947/1504205706",
+  "url": null,
+  "notifications": null,
+  "created_at": "Wed Aug 03 15:14:13 +0000 2011",
+  "location": "Krypton ",
+  "friends_count": 998,
+  "profile_sidebar_border_color": "000000",
+  "geo_enabled": true,
+  "profile_use_background_image": false,
+  "favourites_count": 2534
+ },
+ "id": 906257116637392909,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 307,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 29,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 587,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 243,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257116637392909",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903508706",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:45:08 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "histo_lines",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/646428571267895297/M-znIwHu_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 44241,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/646428571267895297/M-znIwHu_normal.jpg",
+  "listed_count": 79,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 367,
+  "id_str": "3699586523",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 3699586523,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": null,
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "History Timelines",
+  "verified": false,
+  "url": "http://histolines.com",
+  "notifications": null,
+  "created_at": "Fri Sep 18 19:36:49 +0000 2015",
+  "location": null,
+  "friends_count": 164,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 48
+ },
+ "extended_tweet": {
+  "display_text_range": [
+   0,
+   139
+  ],
+  "extended_entities": {
+   "media": [
+    {
+     "display_url": "pic.twitter.com/Lbv1tCeXWY",
+     "id": 906257200968032257,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJOsH2rW4AEgrdX.jpg",
+     "expanded_url": "https://twitter.com/histo_lines/status/906257202826153985/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJOsH2rW4AEgrdX.jpg",
+     "url": "https://t.co/Lbv1tCeXWY",
+     "id_str": "906257200968032257",
+     "sizes": {
+      "small": {
+       "resize": "fit",
+       "w": 591,
+       "h": 680
+      },
+      "large": {
+       "resize": "fit",
+       "w": 768,
+       "h": 884
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 768,
+       "h": 884
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      }
+     },
+     "indices": [
+      140,
+      163
+     ]
+    }
+   ]
+  },
+  "entities": {
+   "symbols": [],
+   "media": [
+    {
+     "display_url": "pic.twitter.com/Lbv1tCeXWY",
+     "id": 906257200968032257,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJOsH2rW4AEgrdX.jpg",
+     "expanded_url": "https://twitter.com/histo_lines/status/906257202826153985/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJOsH2rW4AEgrdX.jpg",
+     "url": "https://t.co/Lbv1tCeXWY",
+     "id_str": "906257200968032257",
+     "sizes": {
+      "small": {
+       "resize": "fit",
+       "w": 591,
+       "h": 680
+      },
+      "large": {
+       "resize": "fit",
+       "w": 768,
+       "h": 884
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 768,
+       "h": 884
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      }
+     },
+     "indices": [
+      140,
+      163
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "expanded_url": "http://ift.tt/2xS7qup",
+     "url": "https://t.co/sHtfITguYW",
+     "display_url": "ift.tt/2xS7qup",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ],
+   "hashtags": [
+    {
+     "indices": [
+      0,
+      8
+     ],
+     "text": "vintage"
+    },
+    {
+     "indices": [
+      100,
+      110
+     ],
+     "text": "retropics"
+    }
+   ],
+   "user_mentions": []
+  },
+  "full_text": "#vintage #1952 Wernher von Braun with a model of a 3-stage rocket he proposed for space exploration #retropics # v\u2026 https://t.co/sHtfITguYW https://t.co/Lbv1tCeXWY"
+ },
+ "id": 906257202826153985,
+ "filter_level": "low",
+ "truncated": true,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_screen_name": null,
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257202826153985",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "https://twitter.com/i/web/status/906257202826153985",
+    "url": "https://t.co/pwv3vRM2zw",
+    "display_url": "twitter.com/i/web/status/9\u2026",
+    "indices": [
+     117,
+     140
+    ]
+   }
+  ],
+  "hashtags": [
+   {
+    "indices": [
+     0,
+     8
+    ],
+    "text": "vintage"
+   },
+   {
+    "indices": [
+     100,
+     110
+    ],
+    "text": "retropics"
+   }
+  ],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903529255",
+ "in_reply_to_status_id_str": null,
+ "created_at": "Fri Sep 08 20:45:29 +0000 2017",
+ "favorited": false,
+ "text": "#vintage #1952 Wernher von Braun with a model of a 3-stage rocket he proposed for space exploration #retropics # v\u2026\u2026 https://t.co/pwv3vRM2zw",
+ "display_text_range": [
+  0,
+  140
+ ],
+ "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "regular",
+  "screen_name": "Social_Media_b1",
+  "time_zone": "Sydney",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/862589656617033728/rtbAoDZY_normal.jpg",
+  "utc_offset": 36000,
+  "statuses_count": 461534,
+  "profile_text_color": "000000",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/862589656617033728/rtbAoDZY_normal.jpg",
+  "listed_count": 189,
+  "profile_sidebar_fill_color": "000000",
+  "followers_count": 50963,
+  "id_str": "179281589",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 179281589,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Presenting social media's latest business information on our colorful new web CMS platform. #SMHub",
+  "profile_background_color": "000000",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "DD2E44",
+  "name": "SM Hub Business Info",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/179281589/1494492354",
+  "url": "http://business.smhub.org",
+  "notifications": null,
+  "created_at": "Mon Aug 16 23:21:48 +0000 2010",
+  "location": null,
+  "friends_count": 43451,
+  "profile_sidebar_border_color": "000000",
+  "geo_enabled": false,
+  "profile_use_background_image": false,
+  "favourites_count": 3
+ },
+ "id": 906257218307272704,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257218307272704",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "http://ow.ly/14iM50dVqOm",
+    "url": "https://t.co/nqmPHuMKp2",
+    "display_url": "ow.ly/14iM50dVqOm",
+    "indices": [
+     72,
+     95
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903532946",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+ "favorited": false,
+ "text": "Tesla Model 3 vs. Chevy Bolt vs. BMW 3 Series: How does Tesla stack up? https://t.co/nqmPHuMKp2",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:45:32 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "ebstt",
+  "time_zone": "La Paz",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/639039162524565504/An1Pm0oK_normal.png",
+  "utc_offset": -14400,
+  "statuses_count": 242713,
+  "profile_text_color": "663B12",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/639039162524565504/An1Pm0oK_normal.png",
+  "listed_count": 656,
+  "profile_sidebar_fill_color": "DAECF4",
+  "followers_count": 4885,
+  "id_str": "3167941782",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+  "id": 3167941782,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "E-merge Business Solutions offers honest, value based business solutions through #IT, #Virtual Asst. & #Marketing services to its clients. Call (868) 283-1560",
+  "profile_background_color": "C6E2EE",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1F98C7",
+  "name": "Emerge Biz Solutions",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3167941782/1429744812",
+  "url": "http://www.e-bs.org",
+  "notifications": null,
+  "created_at": "Wed Apr 22 22:54:43 +0000 2015",
+  "location": "Trinidad and Tobago",
+  "friends_count": 4905,
+  "profile_sidebar_border_color": "C6E2EE",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 2650
+ },
+ "id": 906257283872587779,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257283872587779",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "http://ow.ly/iU7M50dVrqK",
+    "url": "https://t.co/q5i73wrdCT",
+    "display_url": "ow.ly/iU7M50dVrqK",
+    "indices": [
+     72,
+     95
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903548578",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+ "favorited": false,
+ "text": "Tesla Model 3 vs. Chevy Bolt vs. BMW 3 Series: How does Tesla stack up? https://t.co/q5i73wrdCT",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:45:48 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "_aerospace",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/693031170611634176/touz5FnI_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 34459,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/693031170611634176/touz5FnI_normal.jpg",
+  "listed_count": 29,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 264,
+  "id_str": "4830019015",
+  "profile_background_image_url_https": "",
+  "id": 4830019015,
+  "profile_background_image_url": "",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Track all of the latest Aerospace News with Owler. View all companies in the Aerospace Sector: http://www.owler.com/iaApp/sector/i5_s1/owler/",
+  "profile_background_color": "F5F8FA",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Aerospace News",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/4830019015/1454068506",
+  "url": "http://owler.com",
+  "notifications": null,
+  "created_at": "Fri Jan 29 11:09:41 +0000 2016",
+  "location": "San Mateo, CA",
+  "friends_count": 3,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 0
+ },
+ "id": 906257327954608128,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257327954608128",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "http://owler.us/adfVkT",
+    "url": "https://t.co/dQOBdflOZB",
+    "display_url": "owler.us/adfVkT",
+    "indices": [
+     103,
+     126
+    ]
+   }
+  ],
+  "hashtags": [
+   {
+    "indices": [
+     0,
+     4
+    ],
+    "text": "JDA"
+   }
+  ],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903559088",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"https://www.owler.com\" rel=\"nofollow\">  Aerospace</a>",
+ "favorited": false,
+ "text": "#JDA AOPA complains about Signature's pricing model at 3 airports- can/should FAA resolve?. Read Blog: https://t.co/dQOBdflOZB",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:45:59 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "joy_sukykash",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/863670376139812864/jy1a0nGV_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 6084,
+  "profile_text_color": "000000",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/863670376139812864/jy1a0nGV_normal.jpg",
+  "listed_count": 2,
+  "profile_sidebar_fill_color": "000000",
+  "followers_count": 491,
+  "id_str": "1607048774",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1607048774,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Jesus is my all. February born. Barca fan. Crave Success. Phil 4:6",
+  "profile_background_color": "000000",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1B95E0",
+  "name": "Sira",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1607048774/1452376516",
+  "url": null,
+  "notifications": null,
+  "created_at": "Sat Jul 20 00:13:29 +0000 2013",
+  "location": "Nigeria",
+  "friends_count": 399,
+  "profile_sidebar_border_color": "000000",
+  "geo_enabled": false,
+  "profile_use_background_image": false,
+  "favourites_count": 713
+ },
+ "id": 906257341422727168,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 309,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 29,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 587,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 244,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257341422727168",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903562299",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:46:02 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "ThomasBerends",
+  "time_zone": "Amsterdam",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/763425083079725056/7hTxCHd0_normal.jpg",
+  "utc_offset": 7200,
+  "statuses_count": 388,
+  "profile_text_color": "333333",
+  "lang": "nl",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/763425083079725056/7hTxCHd0_normal.jpg",
+  "listed_count": 11,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "followers_count": 502,
+  "id_str": "29708873",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 29708873,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Web Developer @ Nettt. Spending my free time 3D printing and in virtual reality. Love space exploration and electric cars. Tweets deleted after 6 months.",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "0084B4",
+  "name": "Thomas Berends",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29708873/1373804655",
+  "url": null,
+  "notifications": null,
+  "created_at": "Wed Apr 08 13:00:43 +0000 2009",
+  "location": "Midden-Limburg, Netherlands",
+  "friends_count": 397,
+  "profile_sidebar_border_color": "FFFFFF",
+  "geo_enabled": true,
+  "profile_use_background_image": false,
+  "favourites_count": 193
+ },
+ "id": 906257456904507392,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": "38253449",
+ "is_quote_status": false,
+ "id_str": "906257456904507392",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": 38253449,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "FredericLambert",
+    "indices": [
+     0,
+     16
+    ],
+    "id": 38253449,
+    "name": "Fred Lambert",
+    "id_str": "38253449"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903589832",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+ "favorited": false,
+ "text": "@FredericLambert Hey, do you know where the Model 3 was spotted in The Netherlands?",
+ "in_reply_to_screen_name": "FredericLambert",
+ "created_at": "Fri Sep 08 20:46:29 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "JHandwerg",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/494791256778612736/IpMurbfh_normal.jpeg",
+  "utc_offset": null,
+  "statuses_count": 7541,
+  "profile_text_color": "333333",
+  "lang": "de",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/494791256778612736/IpMurbfh_normal.jpeg",
+  "listed_count": 47,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 517,
+  "id_str": "2695258818",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2695258818,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "- hier privat.",
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "J\u00f6rg Handwerg",
+  "verified": false,
+  "url": null,
+  "notifications": null,
+  "created_at": "Thu Jul 31 09:34:08 +0000 2014",
+  "location": null,
+  "friends_count": 174,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 2858
+ },
+ "id": 906257462248034304,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ElectrekCo",
+   "time_zone": "Eastern Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/639880408675450880/2CQydSIR_normal.png",
+   "utc_offset": -14400,
+   "statuses_count": 5424,
+   "profile_text_color": "000000",
+   "lang": "en",
+   "default_profile": false,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/639880408675450880/2CQydSIR_normal.png",
+   "listed_count": 527,
+   "profile_sidebar_fill_color": "000000",
+   "followers_count": 26909,
+   "id_str": "2148233600",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 2148233600,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "Following the electric transportation industry and green ecosystem, Tesla, SolarCity and more.",
+   "profile_background_color": "000000",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "89C9FA",
+   "name": "Electrek.Co",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2148233600/1457973401",
+   "url": "http://electrek.co",
+   "notifications": null,
+   "created_at": "Tue Oct 22 03:07:30 +0000 2013",
+   "location": "Fremont, CA",
+   "friends_count": 7,
+   "profile_sidebar_border_color": "000000",
+   "geo_enabled": true,
+   "profile_use_background_image": false,
+   "favourites_count": 277
+  },
+  "possibly_sensitive": false,
+  "id": 906189716210450433,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 11,
+  "reply_count": 14,
+  "text": "First Tesla Model 3 spotted in Europe a year ahead of official launch  https://t.co/ORLGwvfxys https://t.co/bdhGrrxE5o",
+  "retweet_count": 67,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   94
+  ],
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906189716210450433",
+  "favorite_count": 192,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "media": [
+    {
+     "display_url": "pic.twitter.com/bdhGrrxE5o",
+     "id": 906189602515558400,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "url": "https://t.co/bdhGrrxE5o",
+     "id_str": "906189602515558400",
+     "sizes": {
+      "medium": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 610
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1712,
+       "h": 870
+      },
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 346
+      }
+     },
+     "indices": [
+      95,
+      118
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "expanded_url": "https://electrek.co/2017/09/08/first-tesla-model-3-spotted-in-europe-a-year-ahead-of-official-launch/",
+     "url": "https://t.co/ORLGwvfxys",
+     "display_url": "electrek.co/2017/09/08/fir\u2026",
+     "indices": [
+      71,
+      94
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 16:17:19 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "extended_entities": {
+   "media": [
+    {
+     "display_url": "pic.twitter.com/bdhGrrxE5o",
+     "id": 906189602515558400,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+     "url": "https://t.co/bdhGrrxE5o",
+     "id_str": "906189602515558400",
+     "sizes": {
+      "medium": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 610
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1712,
+       "h": 870
+      },
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 346
+      }
+     },
+     "indices": [
+      95,
+      118
+     ]
+    }
+   ]
+  },
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257462248034304",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "media": [
+   {
+    "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+    "id": 906189602515558400,
+    "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "source_user_id": 2148233600,
+    "source_status_id": 906189716210450433,
+    "url": "https://t.co/bdhGrrxE5o",
+    "sizes": {
+     "medium": {
+      "resize": "fit",
+      "w": 1200,
+      "h": 610
+     },
+     "thumb": {
+      "resize": "crop",
+      "w": 150,
+      "h": 150
+     },
+     "large": {
+      "resize": "fit",
+      "w": 1712,
+      "h": 870
+     },
+     "small": {
+      "resize": "fit",
+      "w": 680,
+      "h": 346
+     }
+    },
+    "id_str": "906189602515558400",
+    "type": "photo",
+    "source_status_id_str": "906189716210450433",
+    "display_url": "pic.twitter.com/bdhGrrxE5o",
+    "source_user_id_str": "2148233600",
+    "indices": [
+     111,
+     134
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "expanded_url": "https://electrek.co/2017/09/08/first-tesla-model-3-spotted-in-europe-a-year-ahead-of-official-launch/",
+    "url": "https://t.co/ORLGwvfxys",
+    "display_url": "electrek.co/2017/09/08/fir\u2026",
+    "indices": [
+     87,
+     110
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ElectrekCo",
+    "indices": [
+     3,
+     14
+    ],
+    "id": 2148233600,
+    "name": "Electrek.Co",
+    "id_str": "2148233600"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903591106",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ElectrekCo: First Tesla Model 3 spotted in Europe a year ahead of official launch  https://t.co/ORLGwvfxys https://t.co/bdhGrrxE5o",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:46:31 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null,
+ "extended_entities": {
+  "media": [
+   {
+    "expanded_url": "https://twitter.com/ElectrekCo/status/906189716210450433/photo/1",
+    "id": 906189602515558400,
+    "media_url": "http://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "media_url_https": "https://pbs.twimg.com/media/DJNupG0XoAAQlqB.jpg",
+    "source_user_id": 2148233600,
+    "source_status_id": 906189716210450433,
+    "url": "https://t.co/bdhGrrxE5o",
+    "sizes": {
+     "medium": {
+      "resize": "fit",
+      "w": 1200,
+      "h": 610
+     },
+     "thumb": {
+      "resize": "crop",
+      "w": 150,
+      "h": 150
+     },
+     "large": {
+      "resize": "fit",
+      "w": 1712,
+      "h": 870
+     },
+     "small": {
+      "resize": "fit",
+      "w": 680,
+      "h": 346
+     }
+    },
+    "id_str": "906189602515558400",
+    "type": "photo",
+    "source_status_id_str": "906189716210450433",
+    "display_url": "pic.twitter.com/bdhGrrxE5o",
+    "source_user_id_str": "2148233600",
+    "indices": [
+     111,
+     134
+    ]
+   }
+  ]
+ }
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "Vipleyo",
+  "time_zone": "Pacific Time (US & Canada)",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/729808928897421312/HeWR5GCF_normal.jpg",
+  "utc_offset": -25200,
+  "statuses_count": 56909,
+  "profile_text_color": "000000",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/729808928897421312/HeWR5GCF_normal.jpg",
+  "listed_count": 9,
+  "profile_sidebar_fill_color": "000000",
+  "followers_count": 2932,
+  "id_str": "712058682318544897",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 712058682318544897,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Earn 20$ when you open an online store on Babel. Go to: http://bit.ly/2peyQJQ \nBabel Market: https://bit.ly/2oskBis - Always cheaper than Amazon or eBay",
+  "profile_background_color": "000000",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1B95E0",
+  "name": "Vipleyo",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/712058682318544897/1492142585",
+  "url": "https://vipleyo.com",
+  "notifications": null,
+  "created_at": "Mon Mar 21 23:29:54 +0000 2016",
+  "location": "United States",
+  "friends_count": 2277,
+  "profile_sidebar_border_color": "000000",
+  "geo_enabled": true,
+  "profile_use_background_image": false,
+  "favourites_count": 4
+ },
+ "extended_tweet": {
+  "display_text_range": [
+   0,
+   139
+  ],
+  "extended_entities": {
+   "media": [
+    {
+     "display_url": "pic.twitter.com/Yt1FBxxDxl",
+     "id": 906257619299401728,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJOsgNFVAAAAC6o.jpg",
+     "expanded_url": "https://twitter.com/Vipleyo/status/906257623682473985/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJOsgNFVAAAAC6o.jpg",
+     "url": "https://t.co/Yt1FBxxDxl",
+     "id_str": "906257619299401728",
+     "sizes": {
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 628
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 628
+      },
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 356
+      }
+     },
+     "indices": [
+      140,
+      163
+     ]
+    }
+   ]
+  },
+  "entities": {
+   "symbols": [],
+   "media": [
+    {
+     "display_url": "pic.twitter.com/Yt1FBxxDxl",
+     "id": 906257619299401728,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJOsgNFVAAAAC6o.jpg",
+     "expanded_url": "https://twitter.com/Vipleyo/status/906257623682473985/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJOsgNFVAAAAC6o.jpg",
+     "url": "https://t.co/Yt1FBxxDxl",
+     "id_str": "906257619299401728",
+     "sizes": {
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 628
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 1200,
+       "h": 628
+      },
+      "small": {
+       "resize": "fit",
+       "w": 680,
+       "h": 356
+      }
+     },
+     "indices": [
+      140,
+      163
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "expanded_url": "http://bit.ly/2oskBis",
+     "url": "https://t.co/vGRzzi8sJi",
+     "display_url": "bit.ly/2oskBis",
+     "indices": [
+      0,
+      23
+     ]
+    },
+    {
+     "expanded_url": "http://dlvr.it/PlkMtZ",
+     "url": "https://t.co/Kxcem5AZPR",
+     "display_url": "dlvr.it/PlkMtZ",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "full_text": "https://t.co/vGRzzi8sJi Tesla Model 3 vs. Chevy Bolt vs. BMW 3 Series: How does Tesla stack up?: The Tesla Model 3\u2026 https://t.co/Kxcem5AZPR https://t.co/Yt1FBxxDxl"
+ },
+ "id": 906257623682473985,
+ "filter_level": "low",
+ "truncated": true,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_screen_name": null,
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257623682473985",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "http://bit.ly/2oskBis",
+    "url": "https://t.co/vGRzzi8sJi",
+    "display_url": "bit.ly/2oskBis",
+    "indices": [
+     0,
+     23
+    ]
+   },
+   {
+    "expanded_url": "https://twitter.com/i/web/status/906257623682473985",
+    "url": "https://t.co/dKfJM4hBdl",
+    "display_url": "twitter.com/i/web/status/9\u2026",
+    "indices": [
+     117,
+     140
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903629595",
+ "in_reply_to_status_id_str": null,
+ "created_at": "Fri Sep 08 20:47:09 +0000 2017",
+ "favorited": false,
+ "text": "https://t.co/vGRzzi8sJi Tesla Model 3 vs. Chevy Bolt vs. BMW 3 Series: How does Tesla stack up?: The Tesla Model 3\u2026\u2026 https://t.co/dKfJM4hBdl",
+ "display_text_range": [
+  0,
+  140
+ ],
+ "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "plinkspendragon",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/697741601045618688/-gRbggny_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 1526,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/697741601045618688/-gRbggny_normal.jpg",
+  "listed_count": 5,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 1481,
+  "id_str": "4863703941",
+  "profile_background_image_url_https": "",
+  "id": 4863703941,
+  "profile_background_image_url": "",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "A beautiful insane mind. \ud83d\uddff",
+  "profile_background_color": "F5F8FA",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Pendragon\ud83d\udd25",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/4863703941/1503668913",
+  "url": null,
+  "notifications": null,
+  "created_at": "Sat Jan 30 13:22:15 +0000 2016",
+  "location": "Nigeria",
+  "friends_count": 1543,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 2981
+ },
+ "id": 906257699259781121,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 316,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 29,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 587,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 246,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257699259781121",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903647614",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:47:27 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "eduleci",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/882038575252090882/MZTBCnPo_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 4631,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/882038575252090882/MZTBCnPo_normal.jpg",
+  "listed_count": 103,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "followers_count": 2472,
+  "id_str": "158879305",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "id": 158879305,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "Prop Trader. Solo seguir al mercado, sin adelantarnos... Las velas hablan!! Trading: Una Pasi\u00f3n, Una Profesi\u00f3n, Un Estilo de Vida",
+  "profile_background_color": "022330",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "0084B4",
+  "name": "Halc\u00f3n Trading",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/158879305/1499531789",
+  "url": null,
+  "notifications": null,
+  "created_at": "Wed Jun 23 22:23:17 +0000 2010",
+  "location": "En alguna vela del S&P 500 ",
+  "friends_count": 921,
+  "profile_sidebar_border_color": "A8C7F7",
+  "geo_enabled": true,
+  "profile_use_background_image": true,
+  "favourites_count": 1494
+ },
+ "id": 906257747477397504,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "AtlantaFed",
+   "time_zone": "Eastern Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3116664193/c9e2a26014955d29c4e9241155221784_normal.png",
+   "utc_offset": -14400,
+   "statuses_count": 9338,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": false,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3116664193/c9e2a26014955d29c4e9241155221784_normal.png",
+   "listed_count": 1509,
+   "profile_sidebar_fill_color": "E0EAEF",
+   "followers_count": 54299,
+   "id_str": "30857540",
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/198089981/twitter_image2.jpg",
+   "id": 30857540,
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/198089981/twitter_image2.jpg",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "The Federal Reserve Bank of Atlanta is part of the U.S. central bank. It serves Alabama, Florida, Georgia, and parts of Louisiana, Mississippi, and Tennessee.",
+   "profile_background_color": "006C90",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "4C1C3D",
+   "name": "Atlanta Fed",
+   "verified": true,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/30857540/1492462556",
+   "url": "http://www.frbatlanta.org",
+   "notifications": null,
+   "created_at": "Mon Apr 13 12:44:30 +0000 2009",
+   "location": "Atlanta, Georgia",
+   "friends_count": 146,
+   "profile_sidebar_border_color": "FFFFFF",
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "favourites_count": 60
+  },
+  "possibly_sensitive": false,
+  "id": 906187435020881920,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 2,
+  "reply_count": 0,
+  "text": "On September 8, the #GDPNow model forecast for real GDP growth in Q32017 is 3.0% https://t.co/bnNAl9XuwX https://t.co/cObNN1Ph7M",
+  "retweet_count": 10,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   104
+  ],
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906187435020881920",
+  "favorite_count": 3,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "media": [
+    {
+     "display_url": "pic.twitter.com/cObNN1Ph7M",
+     "id": 906187432848175104,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNsq0LWsAA16Kn.jpg",
+     "expanded_url": "https://twitter.com/AtlantaFed/status/906187435020881920/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNsq0LWsAA16Kn.jpg",
+     "url": "https://t.co/cObNN1Ph7M",
+     "id_str": "906187432848175104",
+     "sizes": {
+      "small": {
+       "resize": "fit",
+       "w": 560,
+       "h": 422
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 560,
+       "h": 422
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 560,
+       "h": 422
+      }
+     },
+     "indices": [
+      105,
+      128
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "expanded_url": "http://goo.gl/nLkQPy",
+     "url": "https://t.co/bnNAl9XuwX",
+     "display_url": "goo.gl/nLkQPy",
+     "indices": [
+      81,
+      104
+     ]
+    }
+   ],
+   "hashtags": [
+    {
+     "indices": [
+      20,
+      27
+     ],
+     "text": "GDPNow"
+    }
+   ],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 16:08:15 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "extended_entities": {
+   "media": [
+    {
+     "display_url": "pic.twitter.com/cObNN1Ph7M",
+     "id": 906187432848175104,
+     "type": "photo",
+     "media_url": "http://pbs.twimg.com/media/DJNsq0LWsAA16Kn.jpg",
+     "expanded_url": "https://twitter.com/AtlantaFed/status/906187435020881920/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/DJNsq0LWsAA16Kn.jpg",
+     "url": "https://t.co/cObNN1Ph7M",
+     "id_str": "906187432848175104",
+     "sizes": {
+      "small": {
+       "resize": "fit",
+       "w": 560,
+       "h": 422
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      },
+      "large": {
+       "resize": "fit",
+       "w": 560,
+       "h": 422
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 560,
+       "h": 422
+      }
+     },
+     "indices": [
+      105,
+      128
+     ]
+    }
+   ]
+  },
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257747477397504",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "http://goo.gl/nLkQPy",
+    "url": "https://t.co/bnNAl9XuwX",
+    "display_url": "goo.gl/nLkQPy",
+    "indices": [
+     97,
+     120
+    ]
+   }
+  ],
+  "hashtags": [
+   {
+    "indices": [
+     36,
+     43
+    ],
+    "text": "GDPNow"
+   }
+  ],
+  "user_mentions": [
+   {
+    "screen_name": "AtlantaFed",
+    "indices": [
+     3,
+     14
+    ],
+    "id": 30857540,
+    "name": "Atlanta Fed",
+    "id_str": "30857540"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903659110",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "favorited": false,
+ "text": "RT @AtlantaFed: On September 8, the #GDPNow model forecast for real GDP growth in Q32017 is 3.0% https://t.co/bnNAl9XuwX https://t.co/cObNN\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:47:39 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "alextaytay34",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/743292390539046916/zy4cQH2y_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 1107,
+  "profile_text_color": "3C3940",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/743292390539046916/zy4cQH2y_normal.jpg",
+  "listed_count": 8,
+  "profile_sidebar_fill_color": "95E8EC",
+  "followers_count": 80,
+  "id_str": "452705612",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+  "id": 452705612,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": null,
+  "profile_background_color": "0099B9",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "0099B9",
+  "name": "Alex",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/452705612/1466049693",
+  "url": null,
+  "notifications": null,
+  "created_at": "Mon Jan 02 04:45:33 +0000 2012",
+  "location": null,
+  "friends_count": 4341,
+  "profile_sidebar_border_color": "5ED4DC",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 869
+ },
+ "id": 906257878331392005,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 319,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 29,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 588,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 246,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257878331392005",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903690308",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:48:10 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "webpicassolive",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/536624921707679745/4_Bc0tzK_normal.jpeg",
+  "utc_offset": null,
+  "statuses_count": 141,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/536624921707679745/4_Bc0tzK_normal.jpeg",
+  "listed_count": 0,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 25,
+  "id_str": "802661792",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 802661792,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": null,
+  "profile_background_color": "C0DEED",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Jason Taylor",
+  "verified": false,
+  "url": null,
+  "notifications": null,
+  "created_at": "Tue Sep 04 15:41:04 +0000 2012",
+  "location": null,
+  "friends_count": 40,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 22
+ },
+ "id": 906257912229744641,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "teslaliving",
+   "time_zone": "Eastern Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/460140225918824449/GJEfH6fD_normal.jpeg",
+   "utc_offset": -14400,
+   "statuses_count": 13961,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/460140225918824449/GJEfH6fD_normal.jpeg",
+   "listed_count": 458,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 25412,
+   "id_str": "2369652488",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 2369652488,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "Engineer, Entrepreneur, Tesla Model S owner, Model 3 Reservation holder, SolarCity customer, Elon Musk fan, and blogger about all that and more.",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "Teslaliving",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2369652488/1434128353",
+   "url": "http://teslaliving.net",
+   "notifications": null,
+   "created_at": "Mon Mar 03 01:50:38 +0000 2014",
+   "location": "Massachusetts, USA",
+   "friends_count": 1938,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 568
+  },
+  "extended_tweet": {
+   "display_text_range": [
+    0,
+    119
+   ],
+   "extended_entities": {
+    "media": [
+     {
+      "display_url": "pic.twitter.com/mqeiGibfmg",
+      "id": 906235962606440449,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJOYznnXUAENURM.jpg",
+      "expanded_url": "https://twitter.com/teslaliving/status/906235965664002050/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJOYznnXUAENURM.jpg",
+      "url": "https://t.co/mqeiGibfmg",
+      "id_str": "906235962606440449",
+      "sizes": {
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 332
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 1600,
+        "h": 781
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 586
+       }
+      },
+      "indices": [
+       120,
+       143
+      ]
+     }
+    ]
+   },
+   "entities": {
+    "symbols": [],
+    "media": [
+     {
+      "display_url": "pic.twitter.com/mqeiGibfmg",
+      "id": 906235962606440449,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/DJOYznnXUAENURM.jpg",
+      "expanded_url": "https://twitter.com/teslaliving/status/906235965664002050/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/DJOYznnXUAENURM.jpg",
+      "url": "https://t.co/mqeiGibfmg",
+      "id_str": "906235962606440449",
+      "sizes": {
+       "small": {
+        "resize": "fit",
+        "w": 680,
+        "h": 332
+       },
+       "thumb": {
+        "resize": "crop",
+        "w": 150,
+        "h": 150
+       },
+       "large": {
+        "resize": "fit",
+        "w": 1600,
+        "h": 781
+       },
+       "medium": {
+        "resize": "fit",
+        "w": 1200,
+        "h": 586
+       }
+      },
+      "indices": [
+       120,
+       143
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "expanded_url": "https://buff.ly/2wP0QWx",
+      "url": "https://t.co/U0hxy0XhdT",
+      "display_url": "buff.ly/2wP0QWx",
+      "indices": [
+       96,
+       119
+      ]
+     }
+    ],
+    "hashtags": [],
+    "user_mentions": []
+   },
+   "full_text": "Tesla Model 3 and Model Y could represent half the global EV market within 3 years, says report https://t.co/U0hxy0XhdT https://t.co/mqeiGibfmg"
+  },
+  "id": 906235965664002050,
+  "filter_level": "low",
+  "truncated": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "text": "Tesla Model 3 and Model Y could represent half the global EV market within 3 years, says report\u2026 https://t.co/hzEKjRSrC2",
+  "retweet_count": 3,
+  "lang": "en",
+  "display_text_range": [
+   0,
+   140
+  ],
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906235965664002050",
+  "favorite_count": 15,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "expanded_url": "https://twitter.com/i/web/status/906235965664002050",
+     "url": "https://t.co/hzEKjRSrC2",
+     "display_url": "twitter.com/i/web/status/9\u2026",
+     "indices": [
+      97,
+      120
+     ]
+    }
+   ],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 19:21:05 +0000 2017",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "possibly_sensitive": false,
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906257912229744641",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "teslaliving",
+    "indices": [
+     3,
+     15
+    ],
+    "id": 2369652488,
+    "name": "Teslaliving",
+    "id_str": "2369652488"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903698390",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "favorited": false,
+ "text": "RT @teslaliving: Tesla Model 3 and Model Y could represent half the global EV market within 3 years, says report\u2026 ",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:48:18 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "Seedgreen_Ihii",
+  "time_zone": null,
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "utc_offset": null,
+  "statuses_count": 597,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "listed_count": 0,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 48,
+  "id_str": "755821507729887232",
+  "profile_background_image_url_https": "",
+  "id": 755821507729887232,
+  "profile_background_image_url": "",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "I Am The Future. Anticipate. Prepare. \r\nhttp://www.facebook.com/seedgreenihii",
+  "profile_background_color": "F5F8FA",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "Seedgreen Ihii",
+  "verified": false,
+  "url": null,
+  "notifications": null,
+  "created_at": "Wed Jul 20 17:47:44 +0000 2016",
+  "location": "Nigeria",
+  "friends_count": 56,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 84
+ },
+ "id": 906258003892072449,
+ "retweeted_status": {
+  "user": {
+   "translator_type": "none",
+   "screen_name": "ClintonViceB",
+   "time_zone": "Pacific Time (US & Canada)",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "utc_offset": -25200,
+   "statuses_count": 98922,
+   "profile_text_color": "333333",
+   "lang": "en",
+   "default_profile": true,
+   "following": null,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/905177188055572480/HQog3H76_normal.jpg",
+   "listed_count": 320,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "followers_count": 15175,
+   "id_str": "1257241508",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "id": 1257241508,
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "contributors_enabled": false,
+   "protected": false,
+   "description": "THE ECONOMIST!\nOnline PR.\nSELECTIVELY SERIOUS.\nbreast/dodo lover\ud83d\ude01\nSC:ClintonViceB\nIG:RawViceBrown\nFamilyMajorKey\nGodFirst\ud83d\ude07\nChelsea\nGoalOriented.TouchOfYoruba\u270c",
+   "profile_background_color": "C0DEED",
+   "default_profile_image": false,
+   "follow_request_sent": null,
+   "is_translator": false,
+   "profile_link_color": "1DA1F2",
+   "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+   "verified": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257241508/1504188563",
+   "url": null,
+   "notifications": null,
+   "created_at": "Sun Mar 10 15:06:59 +0000 2013",
+   "location": "somewhere",
+   "friends_count": 6561,
+   "profile_sidebar_border_color": "C0DEED",
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "favourites_count": 548
+  },
+  "id": 906163381232701440,
+  "filter_level": "low",
+  "truncated": false,
+  "quote_count": 29,
+  "reply_count": 9,
+  "text": "Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with the wrong person\ud83d\ude30\u270c",
+  "retweet_count": 588,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "id_str": "906163381232701440",
+  "favorite_count": 246,
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "hashtags": [],
+   "user_mentions": []
+  },
+  "retweeted": false,
+  "place": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "created_at": "Fri Sep 08 14:32:40 +0000 2017",
+  "geo": null
+ },
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906258003892072449",
+ "favorite_count": 0,
+ "filter_level": "low",
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [],
+  "hashtags": [],
+  "user_mentions": [
+   {
+    "screen_name": "ClintonViceB",
+    "indices": [
+     3,
+     16
+    ],
+    "id": 1257241508,
+    "name": "D\u00e6T AkWa \u00edBoM B\u00d6I\u270c",
+    "id_str": "1257241508"
+   }
+  ]
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903720244",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+ "favorited": false,
+ "text": "RT @ClintonViceB: Tips on how to lose weight FAST\n\n1. Date a super hot model\ud83d\ude02\n2. Date a guy with connecting beards\ud83d\ude01\n3. Fall in love with th\u2026",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:48:40 +0000 2017",
+ "geo": null
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "TsGodess",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/807718775059611648/dyTzR_2G_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 26263,
+  "profile_text_color": "000000",
+  "lang": "en",
+  "default_profile": false,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/807718775059611648/dyTzR_2G_normal.jpg",
+  "listed_count": 7,
+  "profile_sidebar_fill_color": "000000",
+  "followers_count": 350,
+  "id_str": "807714375276625920",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 807714375276625920,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": "(+18) The best Ts / shemale pics and live video streams of the net here! Follow us if you want a Ts Godess for you today!",
+  "profile_background_color": "000000",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "981CEB",
+  "name": "Ts Godess",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/807714375276625920/1481410269",
+  "url": "http://www.tsgodess.com",
+  "notifications": null,
+  "created_at": "Sat Dec 10 22:31:28 +0000 2016",
+  "location": "Florida, USA",
+  "friends_count": 110,
+  "profile_sidebar_border_color": "000000",
+  "geo_enabled": false,
+  "profile_use_background_image": false,
+  "favourites_count": 23
+ },
+ "id": 906258463076089856,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_screen_name": null,
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906258463076089856",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "media": [
+   {
+    "display_url": "pic.twitter.com/tiQ3PCfMGo",
+    "id": 906258457921245186,
+    "type": "photo",
+    "media_url": "http://pbs.twimg.com/media/DJOtRBMW0AIbAB-.jpg",
+    "expanded_url": "https://twitter.com/TsGodess/status/906258463076089856/photo/1",
+    "media_url_https": "https://pbs.twimg.com/media/DJOtRBMW0AIbAB-.jpg",
+    "url": "https://t.co/tiQ3PCfMGo",
+    "id_str": "906258457921245186",
+    "sizes": {
+     "small": {
+      "resize": "fit",
+      "w": 320,
+      "h": 270
+     },
+     "thumb": {
+      "resize": "crop",
+      "w": 150,
+      "h": 150
+     },
+     "large": {
+      "resize": "fit",
+      "w": 320,
+      "h": 270
+     },
+     "medium": {
+      "resize": "fit",
+      "w": 320,
+      "h": 270
+     }
+    },
+    "indices": [
+     99,
+     122
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "expanded_url": "http://feedproxy.google.com/~r/TsGodessLive/~3/VQVaUuUW5O8/",
+    "url": "https://t.co/0UgCYev6gs",
+    "display_url": "feedproxy.google.com/~r/TsGodessLiv\u2026",
+    "indices": [
+     54,
+     77
+    ]
+   }
+  ],
+  "hashtags": [
+   {
+    "indices": [
+     78,
+     81
+    ],
+    "text": "Ts"
+   },
+   {
+    "indices": [
+     82,
+     89
+    ],
+    "text": "Tranny"
+   },
+   {
+    "indices": [
+     90,
+     98
+    ],
+    "text": "Shemale"
+   }
+  ],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903829722",
+ "in_reply_to_status_id_str": null,
+ "created_at": "Fri Sep 08 20:50:29 +0000 2017",
+ "favorited": false,
+ "text": "The model carlysweetsurprice is now live! En vivo por https://t.co/0UgCYev6gs #Ts #Tranny #Shemale https://t.co/tiQ3PCfMGo",
+ "display_text_range": [
+  0,
+  98
+ ],
+ "source": "<a href=\"http://www.botize.com\" rel=\"nofollow\">Botize</a>",
+ "possibly_sensitive": false,
+ "geo": null,
+ "extended_entities": {
+  "media": [
+   {
+    "display_url": "pic.twitter.com/tiQ3PCfMGo",
+    "id": 906258457921245186,
+    "type": "photo",
+    "media_url": "http://pbs.twimg.com/media/DJOtRBMW0AIbAB-.jpg",
+    "expanded_url": "https://twitter.com/TsGodess/status/906258463076089856/photo/1",
+    "media_url_https": "https://pbs.twimg.com/media/DJOtRBMW0AIbAB-.jpg",
+    "url": "https://t.co/tiQ3PCfMGo",
+    "id_str": "906258457921245186",
+    "sizes": {
+     "small": {
+      "resize": "fit",
+      "w": 320,
+      "h": 270
+     },
+     "thumb": {
+      "resize": "crop",
+      "w": 150,
+      "h": 150
+     },
+     "large": {
+      "resize": "fit",
+      "w": 320,
+      "h": 270
+     },
+     "medium": {
+      "resize": "fit",
+      "w": 320,
+      "h": 270
+     }
+    },
+    "indices": [
+     99,
+     122
+    ]
+   }
+  ]
+ }
+},
+{
+ "user": {
+  "translator_type": "none",
+  "screen_name": "MartinJSllberg",
+  "time_zone": null,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/817908206475169792/oOFaQD-v_normal.jpg",
+  "utc_offset": null,
+  "statuses_count": 2822,
+  "profile_text_color": "333333",
+  "lang": "en",
+  "default_profile": true,
+  "following": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/817908206475169792/oOFaQD-v_normal.jpg",
+  "listed_count": 1,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "followers_count": 39,
+  "id_str": "814717509622329344",
+  "profile_background_image_url_https": "",
+  "id": 814717509622329344,
+  "profile_background_image_url": "",
+  "profile_background_tile": false,
+  "contributors_enabled": false,
+  "protected": false,
+  "description": null,
+  "profile_background_color": "F5F8FA",
+  "default_profile_image": false,
+  "follow_request_sent": null,
+  "is_translator": false,
+  "profile_link_color": "1DA1F2",
+  "name": "David Reigle",
+  "verified": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/814717509622329344/1483840605",
+  "url": null,
+  "notifications": null,
+  "created_at": "Fri Dec 30 06:19:25 +0000 2016",
+  "location": null,
+  "friends_count": 0,
+  "profile_sidebar_border_color": "C0DEED",
+  "geo_enabled": false,
+  "profile_use_background_image": true,
+  "favourites_count": 15
+ },
+ "id": 906258472991383552,
+ "filter_level": "low",
+ "truncated": false,
+ "quote_count": 0,
+ "reply_count": 0,
+ "in_reply_to_status_id": null,
+ "retweet_count": 0,
+ "lang": "en",
+ "in_reply_to_user_id_str": null,
+ "is_quote_status": false,
+ "id_str": "906258472991383552",
+ "favorite_count": 0,
+ "contributors": null,
+ "in_reply_to_user_id": null,
+ "entities": {
+  "symbols": [],
+  "urls": [
+   {
+    "expanded_url": "http://feedproxy.google.com/~r/daily-express-finance-news/~3/CZjcCW2nxYU/Brexit-news-Deutsche-Bank-of-England-plans-UK-branch",
+    "url": "https://t.co/S4fOx9qmAz",
+    "display_url": "feedproxy.google.com/~r/daily-expre\u2026",
+    "indices": [
+     66,
+     89
+    ]
+   }
+  ],
+  "hashtags": [],
+  "user_mentions": []
+ },
+ "retweeted": false,
+ "place": null,
+ "coordinates": null,
+ "timestamp_ms": "1504903832086",
+ "in_reply_to_status_id_str": null,
+ "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+ "favorited": false,
+ "text": "REVEALED: Bank of England fears over Deutsche Bank's Brexit model https://t.co/S4fOx9qmAz",
+ "in_reply_to_screen_name": null,
+ "created_at": "Fri Sep 08 20:50:32 +0000 2017",
+ "possibly_sensitive": false,
+ "geo": null
+},

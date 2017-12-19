@@ -1,0 +1,364 @@
+[
+ {
+  "as_of": "2017-09-09T18:06:31Z",
+  "trends": [
+   {
+    "url": "http://twitter.com/search?q=%22Lamar+Jackson%22",
+    "promoted_content": null,
+    "name": "Lamar Jackson",
+    "query": "%22Lamar+Jackson%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23saturdaymorning",
+    "promoted_content": null,
+    "name": "#saturdaymorning",
+    "query": "%23saturdaymorning",
+    "tweet_volume": 31476
+   },
+   {
+    "url": "http://twitter.com/search?q=%23CollegeGameDay",
+    "promoted_content": null,
+    "name": "#CollegeGameDay",
+    "query": "%23CollegeGameDay",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Carter+3%22",
+    "promoted_content": null,
+    "name": "Carter 3",
+    "query": "%22Carter+3%22",
+    "tweet_volume": 12624
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Jonathan+Taylor%22",
+    "promoted_content": null,
+    "name": "Jonathan Taylor",
+    "query": "%22Jonathan+Taylor%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Iowa+State%22",
+    "promoted_content": null,
+    "name": "Iowa State",
+    "query": "%22Iowa+State%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23STKMUN",
+    "promoted_content": null,
+    "name": "#STKMUN",
+    "query": "%23STKMUN",
+    "tweet_volume": 39990
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Brandon+Harris%22",
+    "promoted_content": null,
+    "name": "Brandon Harris",
+    "query": "%22Brandon+Harris%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Stephen+Johnson%22",
+    "promoted_content": null,
+    "name": "Stephen Johnson",
+    "query": "%22Stephen+Johnson%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=Speight",
+    "promoted_content": null,
+    "name": "Speight",
+    "query": "Speight",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23WRBGFest",
+    "promoted_content": null,
+    "name": "#WRBGFest",
+    "query": "%23WRBGFest",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23CINvsMICH",
+    "promoted_content": null,
+    "name": "#CINvsMICH",
+    "query": "%23CINvsMICH",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Category+3%22",
+    "promoted_content": null,
+    "name": "Category 3",
+    "query": "%22Category+3%22",
+    "tweet_volume": 11369
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Lynn+Bowden%22",
+    "promoted_content": null,
+    "name": "Lynn Bowden",
+    "query": "%22Lynn+Bowden%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22UT+Martin%22",
+    "promoted_content": null,
+    "name": "UT Martin",
+    "query": "%22UT+Martin%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Will+Grier%22",
+    "promoted_content": null,
+    "name": "Will Grier",
+    "query": "%22Will+Grier%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Devin+Bush%22",
+    "promoted_content": null,
+    "name": "Devin Bush",
+    "query": "%22Devin+Bush%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Drew+Barker%22",
+    "promoted_content": null,
+    "name": "Drew Barker",
+    "query": "%22Drew+Barker%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Eastern+Kentucky%22",
+    "promoted_content": null,
+    "name": "Eastern Kentucky",
+    "query": "%22Eastern+Kentucky%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Chazz+Surratt%22",
+    "promoted_content": null,
+    "name": "Chazz Surratt",
+    "query": "%22Chazz+Surratt%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Daniel+Jones%22",
+    "promoted_content": null,
+    "name": "Daniel Jones",
+    "query": "%22Daniel+Jones%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=Stoke",
+    "promoted_content": null,
+    "name": "Stoke",
+    "query": "Stoke",
+    "tweet_volume": 74886
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Mike+Boone%22",
+    "promoted_content": null,
+    "name": "Mike Boone",
+    "query": "%22Mike+Boone%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Tyree+Kinnel%22",
+    "promoted_content": null,
+    "name": "Tyree Kinnel",
+    "query": "%22Tyree+Kinnel%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=Stanley",
+    "promoted_content": null,
+    "name": "Stanley",
+    "query": "Stanley",
+    "tweet_volume": 10973
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Kyzir+White%22",
+    "promoted_content": null,
+    "name": "Kyzir White",
+    "query": "%22Kyzir+White%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Kasim+Hill%22",
+    "promoted_content": null,
+    "name": "Kasim Hill",
+    "query": "%22Kasim+Hill%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Kendall+Adams%22",
+    "promoted_content": null,
+    "name": "Kendall Adams",
+    "query": "%22Kendall+Adams%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=Rashford",
+    "promoted_content": null,
+    "name": "Rashford",
+    "query": "Rashford",
+    "tweet_volume": 21420
+   },
+   {
+    "url": "http://twitter.com/search?q=Wadley",
+    "promoted_content": null,
+    "name": "Wadley",
+    "query": "Wadley",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=Liverpool",
+    "promoted_content": null,
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "tweet_volume": 382400
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Joe+Paterno%22",
+    "promoted_content": null,
+    "name": "Joe Paterno",
+    "query": "%22Joe+Paterno%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Shea+Patterson%22",
+    "promoted_content": null,
+    "name": "Shea Patterson",
+    "query": "%22Shea+Patterson%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22David+Montgomery%22",
+    "promoted_content": null,
+    "name": "David Montgomery",
+    "query": "%22David+Montgomery%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Terry+Gross%22",
+    "promoted_content": null,
+    "name": "Terry Gross",
+    "query": "%22Terry+Gross%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Tar+Heels%22",
+    "promoted_content": null,
+    "name": "Tar Heels",
+    "query": "%22Tar+Heels%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Austin+MacGinnis%22",
+    "promoted_content": null,
+    "name": "Austin MacGinnis",
+    "query": "%22Austin+MacGinnis%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=Lacazette",
+    "promoted_content": null,
+    "name": "Lacazette",
+    "query": "Lacazette",
+    "tweet_volume": 31928
+   },
+   {
+    "url": "http://twitter.com/search?q=%22Kroger+Field%22",
+    "promoted_content": null,
+    "name": "Kroger Field",
+    "query": "%22Kroger+Field%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%22De+Gea%22",
+    "promoted_content": null,
+    "name": "De Gea",
+    "query": "%22De+Gea%22",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=Lukaku",
+    "promoted_content": null,
+    "name": "Lukaku",
+    "query": "Lukaku",
+    "tweet_volume": 30179
+   },
+   {
+    "url": "http://twitter.com/search?q=%23AdamSandlerAMovie",
+    "promoted_content": null,
+    "name": "#AdamSandlerAMovie",
+    "query": "%23AdamSandlerAMovie",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23TheseLyricsDescribeMe",
+    "promoted_content": null,
+    "name": "#TheseLyricsDescribeMe",
+    "query": "%23TheseLyricsDescribeMe",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23CreateCultivateSEA",
+    "promoted_content": null,
+    "name": "#CreateCultivateSEA",
+    "query": "%23CreateCultivateSEA",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23COYS",
+    "promoted_content": null,
+    "name": "#COYS",
+    "query": "%23COYS",
+    "tweet_volume": 23965
+   },
+   {
+    "url": "http://twitter.com/search?q=%23DragCon",
+    "promoted_content": null,
+    "name": "#DragCon",
+    "query": "%23DragCon",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23CyHawk",
+    "promoted_content": null,
+    "name": "#CyHawk",
+    "query": "%23CyHawk",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23TSGFCB",
+    "promoted_content": null,
+    "name": "#TSGFCB",
+    "query": "%23TSGFCB",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23LDP2017",
+    "promoted_content": null,
+    "name": "#LDP2017",
+    "query": "%23LDP2017",
+    "tweet_volume": null
+   },
+   {
+    "url": "http://twitter.com/search?q=%23ULvsUNC",
+    "promoted_content": null,
+    "name": "#ULvsUNC",
+    "query": "%23ULvsUNC",
+    "tweet_volume": null
+   }
+  ],
+  "created_at": "2017-09-09T17:58:05Z",
+  "locations": [
+   {
+    "woeid": 23424977,
+    "name": "United States"
+   }
+  ]
+ }
+]
